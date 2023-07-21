@@ -1,5 +1,3 @@
-package src;
-
 public class Food extends Answer {
     @Override
     public void condition1() {

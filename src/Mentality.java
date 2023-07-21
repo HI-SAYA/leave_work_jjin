@@ -1,5 +1,3 @@
-package src;
-
 public class Mentality {
     private int mental;
 

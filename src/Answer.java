@@ -1,5 +1,3 @@
-package src;
-
 public class Answer {
 
     public void condition1() {

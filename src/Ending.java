@@ -1,5 +1,3 @@
-package src;
-
 public class Ending extends Answer{
 
         public void hiddenEnding() {
